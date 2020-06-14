@@ -1,0 +1,17 @@
+首先初始化工程：npm init -y
+然后安装express：  npm i express
+安装框架      npm install express body-parser --save
+安装淘宝的模块    npm install -g cnpm --registry=https://registry.npm.taobao.org
+安装模拟引擎：     npm i ejs
+安装mongodb：     cnpm install mongodb或者   npm i mongodb
+或者安装mongoose   npm install mongoose
+
+启动数据库       mongod --dbpath=f:/mongo/data
+
+启动服务器：nodemon app.js
+-------------------------------------------------------------
+第一步：创建server.js在主文件夹下，写代码 用于创建服务器把数据传给控制器
+第二部：创建一个和控制器中一直的视图V
+&nbsp显示为空格
+=============================================================
+

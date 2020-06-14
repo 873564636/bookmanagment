@@ -1,0 +1,50 @@
+h1,h3 {
+    text-align: center;
+}
+
+.box{
+    width: 800px;
+    height: 400px;
+    background-color: ghostwhite;
+    border: 1px solid rgb(240,240,240);
+    margin: 20px auto;
+    border-radius: 12px;
+}
+
+.six{
+    width: 200px;
+    line-height: 48px;
+    background-color: rgb(240,240,240);
+    border-radius: 10px 10px 0 0;
+}
+
+/*--------------------------------------------*/
+.add_ul{
+    width: 800px;
+    text-align: center;
+}
+
+.add_ul li{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    padding-right: 100px;
+    text-align:center;
+}
+
+.add_ul li label{
+    line-height: 26px;
+}
+
+.add_ul li input{
+    line-height: 26px;
+    outline-color: deepskyblue;
+    border-radius: 10px;
+}
+
+.add_in{
+    line-height: 26px;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
